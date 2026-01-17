@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Home
 nav_order: 1
 description: "Research and best practices for designing multi-agent AI systems"
