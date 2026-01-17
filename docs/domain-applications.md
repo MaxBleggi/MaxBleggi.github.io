@@ -3,6 +3,7 @@ layout: default
 title: Domain Applications
 nav_order: 7
 description: "Applying agentic patterns to new domains"
+permalink: /docs/domain-applications/
 ---
 
 # Agentic Domain Applications

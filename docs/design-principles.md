@@ -3,6 +3,7 @@ layout: default
 title: Design Principles
 nav_order: 2
 description: "Core principles for multi-agent design"
+permalink: /docs/design-principles/
 ---
 
 # Agentic Design Principles

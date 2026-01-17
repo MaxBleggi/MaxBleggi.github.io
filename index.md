@@ -21,12 +21,12 @@ This documentation covers patterns, principles, and practices for building effec
 
 | Document | Purpose |
 |:---------|:--------|
-| [Design Principles]({% link docs/design-principles.md %}) | Core principles for multi-agent design |
-| [Failure Modes]({% link docs/failure-modes.md %}) | Taxonomy of failures with detection/prevention |
-| [Architecture Patterns]({% link docs/architecture-patterns.md %}) | Pipeline, orchestration, and state patterns |
-| [Handoff Design]({% link docs/handoff-design.md %}) | Inter-agent communication contracts |
-| [Human Oversight]({% link docs/human-oversight.md %}) | Checkpoints, synthesis, and escalation |
-| [Domain Applications]({% link docs/domain-applications.md %}) | Applying patterns to new domains |
+| [Design Principles](/docs/design-principles/) | Core principles for multi-agent design |
+| [Failure Modes](/docs/failure-modes/) | Taxonomy of failures with detection/prevention |
+| [Architecture Patterns](/docs/architecture-patterns/) | Pipeline, orchestration, and state patterns |
+| [Handoff Design](/docs/handoff-design/) | Inter-agent communication contracts |
+| [Human Oversight](/docs/human-oversight/) | Checkpoints, synthesis, and escalation |
+| [Domain Applications](/docs/domain-applications/) | Applying patterns to new domains |
 
 ## Reading Paths
 

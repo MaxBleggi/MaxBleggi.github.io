@@ -3,6 +3,7 @@ layout: default
 title: Human Oversight
 nav_order: 6
 description: "Checkpoints, synthesis, and escalation strategies"
+permalink: /docs/human-oversight/
 ---
 
 # Agentic Human Oversight

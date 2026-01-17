@@ -3,6 +3,7 @@ layout: default
 title: Handoff Design
 nav_order: 5
 description: "Inter-agent communication contracts and patterns"
+permalink: /docs/handoff-design/
 ---
 
 # Agentic Handoff Design

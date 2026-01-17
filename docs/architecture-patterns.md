@@ -3,6 +3,7 @@ layout: default
 title: Architecture Patterns
 nav_order: 4
 description: "Pipeline, orchestration, and state management patterns"
+permalink: /docs/architecture-patterns/
 ---
 
 # Agentic Architecture Patterns

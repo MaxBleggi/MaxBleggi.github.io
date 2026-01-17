@@ -3,6 +3,7 @@ layout: default
 title: Failure Modes
 nav_order: 3
 description: "Taxonomy of failures with detection and prevention strategies"
+permalink: /docs/failure-modes/
 ---
 
 # Agentic Failure Modes
